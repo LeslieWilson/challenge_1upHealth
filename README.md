@@ -2,6 +2,6 @@
 
 Finished product displays patient info on a react frontend from 1upHealth's $everything query. 
 
-![Final product on buttonclick](finalProduct.png?raw=true)
+![Final product on buttonclick](./challenge_1upHealth/finalProduct.png)
 
 
